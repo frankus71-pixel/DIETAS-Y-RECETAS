@@ -1,0 +1,693 @@
+{
+  "paciente": {
+    "id": "22286",
+    "nombre": "Francisco Javier González Hernández"
+  },
+  "recetas": [
+    {
+      "nombre": "Macarrones con Carne (H)",
+      "cantidad_gramos": 574,
+      "personas": 1,
+      "kcal": 573.6,
+      "ingredientes": [
+        {
+          "alimento": "Macarrones Integrales Hervidos",
+          "gramos": 240
+        },
+        {
+          "alimento": "Carne Molida De Ternera",
+          "gramos": 130
+        },
+        {
+          "alimento": "Cebolla. Cebolleta",
+          "gramos": 50
+        },
+        {
+          "alimento": "Tomate Frito",
+          "gramos": 90
+        },
+        {
+          "alimento": "Pimiento",
+          "gramos": 50
+        },
+        {
+          "alimento": "Pimienta Blanca",
+          "gramos": 1
+        },
+        {
+          "alimento": "Ajo",
+          "gramos": 3
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        }
+      ],
+      "preparacion": "Se cuecen los macarrones en agua con sal, se escurre y se pasa por agua fría inmediatamente, se reservan. Mientras en una sartén se rehoga la cebolla, el ajo picado, el pimiento y se añade la carne sazonada con sal y pimienta al gusto. Se agrega la salsa de tomate y el perejil picado, se deja hervir a fuego lento unos minutos, se le añade la carne con el resto de los ingredientes y se vuelcan en los macarrones ya cocidos. Se sirve caliente."
+    },
+    {
+      "nombre": "Ensalada De Manzana Y Queso",
+      "cantidad_gramos": 320,
+      "personas": 1,
+      "kcal": 278.6,
+      "ingredientes": [
+        {
+          "alimento": "Manzana Roja",
+          "gramos": 150
+        },
+        {
+          "alimento": "Nuez Sin Cascara",
+          "gramos": 10
+        },
+        {
+          "alimento": "Zumo De Limon (natural)",
+          "gramos": 10
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        },
+        {
+          "alimento": "Escarola",
+          "gramos": 50
+        },
+        {
+          "alimento": "Queso Tierno",
+          "gramos": 50
+        },
+        {
+          "alimento": "Tomate Crudo",
+          "gramos": 40
+        }
+      ],
+      "preparacion": "Cortar la manzana en cuadrados, retirarles el centro y rebanarlas en tajadas delgadas, untarlas en jugo de limón para que no se oxiden, ponerlas en la fuente y colocar encima la escarola, los tomates y las nueces, cortar el queso en trozos pequeño y en tiras lo más fina posible. Salpimentar y rociar con el aceite y el jugo de limón."
+    },
+    {
+      "nombre": "Tortilla Francesa Con Jamón",
+      "cantidad_gramos": 90,
+      "personas": 1,
+      "kcal": 200.9,
+      "ingredientes": [
+        {
+          "alimento": "Huevo De Gallina",
+          "gramos": 50
+        },
+        {
+          "alimento": "Jamón Cocido",
+          "gramos": 30
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        }
+      ],
+      "preparacion": "Se casca el huevo y se echa en un plato, lo batimos hasta que este bien mezclado y salpimentamos al gusto. En una sartén se pone el aceite y cuando esté se le añade el huevo batido y finalmente el jamón cocido cortado en trozos pequeños y se hace la tortilla por los dos lados. Se sirve caliente."
+    },
+    {
+      "nombre": "Ensalada Variada",
+      "cantidad_gramos": 285,
+      "personas": 1,
+      "kcal": 141.5,
+      "ingredientes": [
+        {
+          "alimento": "Tomate Crudo",
+          "gramos": 50
+        },
+        {
+          "alimento": "Lechuga",
+          "gramos": 75
+        },
+        {
+          "alimento": "Zanahoria",
+          "gramos": 30
+        },
+        {
+          "alimento": "Cebolla. Cebolleta",
+          "gramos": 30
+        },
+        {
+          "alimento": "Esparrago De Lata",
+          "gramos": 55
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 5
+        },
+        {
+          "alimento": "Vinagre",
+          "gramos": 5
+        },
+        {
+          "alimento": "Aceituna Verde",
+          "gramos": 35
+        }
+      ],
+      "preparacion": "Lavamos todas las verduras en abundante agua, las dejamos escurrir completamente y las secamos con papel absorbente, a continuación picamos en trozos pequeños todas las verduras, excepto las aceitunas que dejamos a parte en un plato hasta que vayamos a utilizarlas, mezclamos todo en una fuente y al final adornamos con las aceitunas, rociamos con vinagre y aceite. Removemos y servimos fría."
+    },
+    {
+      "nombre": "Pescado Al Horno",
+      "cantidad_gramos": 499,
+      "personas": 1,
+      "kcal": 397.99,
+      "ingredientes": [
+        {
+          "alimento": "Pimiento",
+          "gramos": 30
+        },
+        {
+          "alimento": "Ajo",
+          "gramos": 3
+        },
+        {
+          "alimento": "Limón",
+          "gramos": 5
+        },
+        {
+          "alimento": "Pimienta Negra",
+          "gramos": 1
+        },
+        {
+          "alimento": "Cebolla. Cebolleta",
+          "gramos": 75
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        },
+        {
+          "alimento": "Patata",
+          "gramos": 150
+        },
+        {
+          "alimento": "Merluza",
+          "gramos": 150
+        },
+        {
+          "alimento": "Vinos De Mesa",
+          "gramos": 75
+        }
+      ],
+      "preparacion": "Caliente el aceite con el vino blanco (no todo), en una sartén al fuego, añada la cebolla y los ajos picados y rehogue durante unos minutos hasta que estén dorados, agregue los pimientos sin semillas y cortados en tiras y rehóguelos durante 20- 30 minutos, sálelos, añada los granos de pimienta negra y el laurel y reserve. A continuación, sale el pescado y póngalo en una fuente de horno untada con el resto del vino blanco, rocíe con el zumo de limón y el aceite restante e introduzca en el horno, previamente calentado a temperatura media, durante 10 minutos, incorpore el resto de los ingredientes que tenía reservados y cocine durante 5 minutos más. Sirva en la misma fuente de cocción, acompañada con las papas sancochadas."
+    },
+    {
+      "nombre": "Bocadillo De Caballa H",
+      "cantidad_gramos": 235,
+      "personas": 1,
+      "kcal": 453.0,
+      "ingredientes": [
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 5
+        },
+        {
+          "alimento": "Aceituna Verde",
+          "gramos": 20
+        },
+        {
+          "alimento": "Tomate Crudo",
+          "gramos": 30
+        },
+        {
+          "alimento": "Pan Integral",
+          "gramos": 80
+        },
+        {
+          "alimento": "Caballa En Aceite",
+          "gramos": 100
+        }
+      ],
+      "preparacion": "Abrimos el pan a la mitad, lavamos, secamos el tomate y lo cortamos en rodajas finas y lo ponemos en una de las mitades del pan, añadimos un poco de sal y aceite. Ponemos la caballa encima del tomate y finalmente añadimos las aceitunas cortadas en trozos pequeños, tapamos con la otra mitad del pan y servimos."
+    },
+    {
+      "nombre": "Ensalada De Tomate",
+      "cantidad_gramos": 162,
+      "personas": 1,
+      "kcal": 119.28,
+      "ingredientes": [
+        {
+          "alimento": "Tomate Crudo",
+          "gramos": 150
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        },
+        {
+          "alimento": "Ajo",
+          "gramos": 2
+        }
+      ],
+      "preparacion": "Lavar el tomate, secar y a continuación cortar en rodajas finas, colocarlo en un plato y a continuación aliñar con el aceite y el vinagre, servir frío."
+    },
+    {
+      "nombre": "Pollo Al Horno Con Calabaza",
+      "cantidad_gramos": 493,
+      "personas": 1,
+      "kcal": 421.41,
+      "ingredientes": [
+        {
+          "alimento": "Vinos De Mesa",
+          "gramos": 30
+        },
+        {
+          "alimento": "Cebolla. Cebolleta",
+          "gramos": 50
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        },
+        {
+          "alimento": "Calabaza",
+          "gramos": 100
+        },
+        {
+          "alimento": "Pollo Pechuga",
+          "gramos": 150
+        },
+        {
+          "alimento": "Pimienta Negra",
+          "gramos": 3
+        },
+        {
+          "alimento": "Patata",
+          "gramos": 150
+        }
+      ],
+      "preparacion": "Se lava bien todas las verduras que se vayan a usar en la receta. Seguidamente se trocea al gusto, recomendamos un corte en juliana cebolla mientras que tanto la calabaza como las papas se recomienda cortar en láminas para mejorar el sabor y la presentación del plato final. Tras preparar los ingredientes anteriores, se precalienta el horno durante unos 10 minutos a 200 º C. Se introduce primero las papas, encima la calabaza y encima de todo esto la cebolla. Se baña con el vino y el aceite, salpimentando al gusto. Una vez introducidas en el horno bajamos la temperatura a 180 º durante 25 minutos. Cuando hayan pasado 10 minutos introduciremos el pollo sobre los productos anteriores. Al finalizar el tiempo predeterminado, se picarán las papas y el pollo con un tenedor para ver si están cocinadas (añadir tiempo y agua si fuera preciso para evitar que se pegue a la bandeja). Si está el plato en su punto lo serviremos respetando la presentación con la que hemos cocinado la receta."
+    },
+    {
+      "nombre": "Ensalada De Millo Y Manzana",
+      "cantidad_gramos": 355,
+      "personas": 1,
+      "kcal": 320.6,
+      "ingredientes": [
+        {
+          "alimento": "Mostaza",
+          "gramos": 5
+        },
+        {
+          "alimento": "Maiz",
+          "gramos": 20
+        },
+        {
+          "alimento": "Tomate Crudo",
+          "gramos": 100
+        },
+        {
+          "alimento": "Esparrago De Lata",
+          "gramos": 75
+        },
+        {
+          "alimento": "Vinagre",
+          "gramos": 5
+        },
+        {
+          "alimento": "Atún En Aceite",
+          "gramos": 40
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        },
+        {
+          "alimento": "Manzana Roja",
+          "gramos": 100
+        }
+      ],
+      "preparacion": "Pelar la manzana y cortarla en cuadros. Lavar y cortar los tomates por la mitad, mezclar en una fuente estos ingredientes con el maíz, los espárragos y el atún desmigado. En un bol aparte se pone el aceite de oliva, el vinagre y la mostaza, se bate bien y se vierte sobre la ensalada. Se sirve a temperatura ambiente."
+    },
+    {
+      "nombre": "Revuelto De Champiñones O Setas",
+      "cantidad_gramos": 271,
+      "personas": 1,
+      "kcal": 246.57,
+      "ingredientes": [
+        {
+          "alimento": "Pimienta Negra",
+          "gramos": 1
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        },
+        {
+          "alimento": "Huevo De Gallina",
+          "gramos": 50
+        },
+        {
+          "alimento": "Champiñon Y Seta",
+          "gramos": 150
+        },
+        {
+          "alimento": "Jamón Cocido",
+          "gramos": 50
+        },
+        {
+          "alimento": "Limón",
+          "gramos": 10
+        }
+      ],
+      "preparacion": "Ponga en una sartén o plancha el aceite y añada los champiñones o las setas, sazónelas con sal y pimienta y rocíelas con el zumo de limón, cocine a fuego lento, removiendo de vez en cuando de diez a quince minutos hasta que los champiñones o las setas estén cocidas y el líquido de cocción se haya evaporado. Seguidamente, bata el huevo, sazonándolos con sal y pimienta y cuando los champiñones o las setas estén cocinadas, incorpore el huevo y el jamón removiendo constantemente con una cuchara de madera hasta que estén cuajados pero no muy secos."
+    },
+    {
+      "nombre": "Salteado Danpel",
+      "cantidad_gramos": 365,
+      "personas": 1,
+      "kcal": 248.5,
+      "ingredientes": [
+        {
+          "alimento": "Zanahoria",
+          "gramos": 150
+        },
+        {
+          "alimento": "Cebolla. Cebolleta",
+          "gramos": 100
+        },
+        {
+          "alimento": "Pimiento",
+          "gramos": 100
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 15
+        }
+      ],
+      "preparacion": "Se trocean todas las verduras en cortes en juliana. En una sartén se hace un sofrito con la cebolla y el pimiento. Cuando estén bien pochadas, se añade la zanahoria cortada para que quede al dente. Si no gusta esta textura de la zanahoria se puede añadir desde el inicio para que se consiga un mayor tiempo de cocción. Se salpimienta al gusto y se sirve como guarnición."
+    },
+    {
+      "nombre": "Pizza Reina",
+      "cantidad_gramos": 245,
+      "personas": 1,
+      "kcal": 511.32,
+      "ingredientes": [
+        {
+          "alimento": "Base De Pizza",
+          "gramos": 80
+        },
+        {
+          "alimento": "Tomate Frito",
+          "gramos": 60
+        },
+        {
+          "alimento": "Queso Plato",
+          "gramos": 25
+        },
+        {
+          "alimento": "Jamón Cocido",
+          "gramos": 25
+        },
+        {
+          "alimento": "Champiñon Y Seta",
+          "gramos": 50
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 5
+        }
+      ],
+      "preparacion": "Utilizamos la base de pizza, encima colocamos el tomate y seguidamente el queso. A continuación añadimos el jamón picado en trozos muy pequeños y por último los champiñones escurridos para que no humedezcan la masa. Y rocíelo con el aceite de oliva. Precalentamos el horno a 220º C y cuando esté caliente introducimos la pizza en el horno."
+    },
+    {
+      "nombre": "Ensalada De Tomate Y Queso Tierno",
+      "cantidad_gramos": 271,
+      "personas": 1,
+      "kcal": 256.97,
+      "ingredientes": [
+        {
+          "alimento": "Tomate Crudo",
+          "gramos": 150
+        },
+        {
+          "alimento": "Piñones Sin Cascara",
+          "gramos": 10
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        },
+        {
+          "alimento": "Pimienta Negra",
+          "gramos": 1
+        },
+        {
+          "alimento": "Queso Tierno",
+          "gramos": 100
+        }
+      ],
+      "preparacion": "Limpiar los tomates bajo el grifo, retirar el pedúnculo y cortarlos en rodajas, salpimentar por un lado y ponerlos encima de un colador para que suelten toda el agua que contienen. Cortar el queso en lonchas a la medida de las rodajas de tomate. Freír los piñones hasta que estén dorados en una sartén al fuego con el aceite. Disponer las rodajas de tomate y las de queso en abanico en una bandeja de servir, espolvorear por encima de la ensalada los piñones y el orégano, salpimentar al gusto y aliñar con el resto de aceite de oliva, servir bien frío."
+    },
+    {
+      "nombre": "Arroz Con Pollo",
+      "cantidad_gramos": 343,
+      "personas": 1,
+      "kcal": 370.16,
+      "ingredientes": [
+        {
+          "alimento": "Arroz Integral Hervido",
+          "gramos": 150
+        },
+        {
+          "alimento": "Pollo Pechuga",
+          "gramos": 100
+        },
+        {
+          "alimento": "Pimiento",
+          "gramos": 20
+        },
+        {
+          "alimento": "Cebolla. Cebolleta",
+          "gramos": 20
+        },
+        {
+          "alimento": "Zanahoria",
+          "gramos": 20
+        },
+        {
+          "alimento": "Ajo",
+          "gramos": 2
+        },
+        {
+          "alimento": "Apio",
+          "gramos": 20
+        },
+        {
+          "alimento": "Pimienta Blanca",
+          "gramos": 1
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        }
+      ],
+      "preparacion": "Lave los tallos de apio, pele las cebollas, pique todo finamente y reserve. Ponga el pollo en una cazuela, cubra con agua sazone ligeramente, y deje cocer una hora aproximadamente. Una vez transcurrido este tiempo, retire el pollo y trocéelo, (deseche la piel ), incorpórelos de nuevo a la cazuela, añada el arroz, (50 grs crudo), sazone con sal y pimienta, y cueza a fuego lento hasta que el arroz esté en su punto. Unos diez minutos antes de terminar la cocción, agregue las verduras, que reservo inicialmente. Deje reposar y sirva."
+    },
+    {
+      "nombre": "Ensalada De Lechuga Y Pollo",
+      "cantidad_gramos": 195,
+      "personas": 1,
+      "kcal": 218.4,
+      "ingredientes": [
+        {
+          "alimento": "Lechuga",
+          "gramos": 60
+        },
+        {
+          "alimento": "Pollo Pechuga",
+          "gramos": 60
+        },
+        {
+          "alimento": "Queso Tierno",
+          "gramos": 50
+        },
+        {
+          "alimento": "Mayonesa Baja En Calorias",
+          "gramos": 5
+        },
+        {
+          "alimento": "Mostaza",
+          "gramos": 10
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        }
+      ],
+      "preparacion": "Lavar la lechuga y cortarla en trozos pequeños y la dejamos a remojo al menos cuatro horas. Salpimentamos el pollo y lo pasamos por la sartén con 5 gr de aceite. En un bol removiendo todos los ingredientes ponemos el queso, la mostaza y la mayonesa, intentando que quede como una crema. Una vez hecho el pollo lo cortamos en trozos pequeños. Se monta el plato colocando primero la lechuga y la aliñamos con un poco de sal (si no somos hipertensos), a continuación añadimos los 5 gr de aceite y removemos para que quede todo bien mezclado. Ponemos los trozos de pollo por encima y acabamos de aliñar con la salsa de mostaza y la mayonesa."
+    },
+    {
+      "nombre": "Revuelto De Calabacín",
+      "cantidad_gramos": 240,
+      "personas": 1,
+      "kcal": 229.9,
+      "ingredientes": [
+        {
+          "alimento": "Calabacin",
+          "gramos": 140
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        },
+        {
+          "alimento": "Cebolla. Cebolleta",
+          "gramos": 40
+        },
+        {
+          "alimento": "Huevo De Gallina",
+          "gramos": 50
+        }
+      ],
+      "preparacion": "Se pela y corta la cebolla, la echamos en una sartén con el aceite de oliva y se pone al fuego, cuando esté dorada se añade el calabacín pelado y cortado en rodajas finas y se fríe hasta que se absorbe el líquido. En este punto se escurre el aceite sobrante y se le añade el huevo removiéndolo todo con una espátula hasta que este cuajado."
+    },
+    {
+      "nombre": "Calabaza Con Tomate",
+      "cantidad_gramos": 412,
+      "personas": 1,
+      "kcal": 227.84,
+      "ingredientes": [
+        {
+          "alimento": "Tomate Crudo",
+          "gramos": 100
+        },
+        {
+          "alimento": "Cebolla. Cebolleta",
+          "gramos": 50
+        },
+        {
+          "alimento": "Vinos De Mesa",
+          "gramos": 50
+        },
+        {
+          "alimento": "Pimienta Negra",
+          "gramos": 2
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        },
+        {
+          "alimento": "Calabaza",
+          "gramos": 200
+        }
+      ],
+      "preparacion": "Pelar la calabaza, retirar las semillas, lavarla y cortarla en trocitos. Caliente el aceite en una cacerola al fuego y añádale el vino y seguidamente rehogar la cebolla durante cinco minutos, añada los tomates, el perejil, el comino en polvo, la calabaza cortada en trocitos, sal y pimienta, cubrir la preparación con agua y deje que cueza a fuego moderado durante unos cuarenta minutos o hasta que la calabaza esté tierna. Sírvala caliente."
+    },
+    {
+      "nombre": "Bocadillo De Jamón Serrano Con Queso Tierno H.",
+      "cantidad_gramos": 185,
+      "personas": 1,
+      "kcal": 392.0,
+      "ingredientes": [
+        {
+          "alimento": "Pan Integral",
+          "gramos": 80
+        },
+        {
+          "alimento": "Jamón Serrano",
+          "gramos": 50
+        },
+        {
+          "alimento": "Queso Tierno",
+          "gramos": 50
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 5
+        }
+      ],
+      "preparacion": "Tuesta el pan, ponle el aceite, añade el jamón y el queso. Listo para comer."
+    },
+    {
+      "nombre": "Bowl de Garbanzos con Langostinos",
+      "cantidad_gramos": 345,
+      "personas": 1,
+      "kcal": 543.4,
+      "ingredientes": [
+        {
+          "alimento": "Garbanzo Cocido",
+          "gramos": 90
+        },
+        {
+          "alimento": "Lechuga",
+          "gramos": 30
+        },
+        {
+          "alimento": "Champiñon Y Seta",
+          "gramos": 60
+        },
+        {
+          "alimento": "Langostinos",
+          "gramos": 80
+        },
+        {
+          "alimento": "Tomate Cherry",
+          "gramos": 50
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 15
+        },
+        {
+          "alimento": "Vinagre",
+          "gramos": 10
+        },
+        {
+          "alimento": "Limón",
+          "gramos": 10
+        }
+      ],
+      "preparacion": "Primeramente se cuecen los langostinos en una cacerola con agua. Mientras se lavan con abundante agua la lechuga y el tomate cherry y se deja retirado en un recipiente. Cuando los langostinos estén cocinados, se saltean unos minutos junto a los garbanzos cocidos y los champiñones. Para saltearlos se utilizará jugo de limón, aceite de oliva y vinagre. Posteriormente, se sirve la lechuga en un bowl y se vierten los garbanzos, champiñones y langostinos. Por último, los tomates cherrys se utilizarán para la decoración."
+    },
+    {
+      "nombre": "Calabacines En Juliana Al Wok",
+      "cantidad_gramos": 265,
+      "personas": 1,
+      "kcal": 136.2,
+      "ingredientes": [
+        {
+          "alimento": "Calabacin",
+          "gramos": 150
+        },
+        {
+          "alimento": "Cebolla. Cebolleta",
+          "gramos": 50
+        },
+        {
+          "alimento": "Tomate Cherry",
+          "gramos": 20
+        },
+        {
+          "alimento": "Salsa De Soja",
+          "gramos": 10
+        },
+        {
+          "alimento": "Puerro",
+          "gramos": 30
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 5
+        }
+      ],
+      "preparacion": "Se lavan con abundante agua las verduras y hortalizas que usaremos en la receta, una vez limpias, se realiza el corte de todas ellas en tipo juliana. Se intenta mantener una uniformidad en el corte para que cuando se cocinen queden todas al mismo punto de cocción. Introduciremos primeramente el aceite y una vez que alcance la temperatura adecuada le añadiremos el puerro, el tomate cherry (el tomate se añade sin pelar) y la cebolla a fuego medio. Cuando estén bien dorados se añadirá calabacín y se tapa, manteniendo el fuego a la misma intensidad, se añade sal al gusto y se pueden usar especias tipo eneldo, hierba buena, pimientas, menta. Una vez que los ingredientes estén en su punto se añade la soja y se revuelve en el Wok antes de emplatarse."
+    },
+    {
+      "nombre": "Huevo Frito",
+      "cantidad_gramos": 60,
+      "personas": 1,
+      "kcal": 168.5,
+      "ingredientes": [
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        },
+        {
+          "alimento": "Huevo De Gallina",
+          "gramos": 50
+        }
+      ],
+      "preparacion": "no disponible"
+    }
+  ]
+}
