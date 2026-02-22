@@ -1,57 +1,38 @@
-{
-  "pasta_griega": {
-    "nombre": "Pasta Griega con Especias (H)",
-    "ingredientes": ["240g Macarrones integrales", "50g Queso Feta", "150g Tomates Cherry", "10g Aceite de oliva", "2 dientes de Ajo", "Orégano"],
-    "elaboracion": "Cocer la pasta. En una fuente, poner los tomates, el queso feta en el centro, aceite y ajo. Hornear 30 min a 220°C. Mezclar para crear una salsa cremosa e incorporar la pasta."
+[
+  {
+    "nombre": "Pasta Griega Con Especias (H)",
+    "ingredientes": [
+      { "nombre": "Macarrones Integrales", "cantidad": "240g" },
+      { "nombre": "Queso Feta", "cantidad": "50g" },
+      { "nombre": "Tomates Cherry", "cantidad": "150g" }
+    ],
+    "preparacion": "Hornear tomates y queso con aceite 30 min a 220°C. Mezclar con la pasta cocida."
   },
-  "ensalada_cesar": {
-    "nombre": "Ensalada César con Pollo y Huevo",
-    "ingredientes": ["100g Lechuga", "60g Pechuga de pollo", "50g Huevo (1 unidad)", "50g Tomate", "20g Queso Parmesano", "10g Aceite", "20g Cebolla"],
-    "elaboracion": "Cocinar el pollo a la plancha. Cocer el huevo. Mezclar la lechuga, el tomate y la cebolla. Añadir el pollo troceado, el huevo picado y las lascas de parmesano. Aliñar."
+  {
+    "nombre": "Ensalada César Con Pollo Y Huevo",
+    "ingredientes": [
+      { "nombre": "Pechuga de Pollo", "cantidad": "60g" },
+      { "nombre": "Huevo duro", "cantidad": "1 ud" },
+      { "nombre": "Lechuga", "cantidad": "100g" }
+    ],
+    "preparacion": "Cocinar pollo a la plancha. Mezclar con lechuga, huevo picado y aliño César ligero."
   },
-  "lentejas_jamon": {
-    "nombre": "Lentejas con Verdura y Jamón C",
-    "ingredientes": ["210g Lentejas cocidas", "40g Jamón Serrano", "60g Zanahoria", "40g Pimiento verde", "40g Cebolla", "10g Aceite"],
-    "elaboracion": "En una olla, sofreír la verdura picada. Añadir las lentejas y un poco de caldo o agua. Cocinar 10 min. Incorporar el jamón al final para que no salte demasiado."
+  {
+    "nombre": "Pollo Al Curry Con Patata",
+    "ingredientes": [
+      { "nombre": "Pollo", "cantidad": "125g" },
+      { "nombre": "Patata", "cantidad": "200g" },
+      { "nombre": "Leche de coco", "cantidad": "100g" }
+    ],
+    "preparacion": "Guisar el pollo con las patatas, curry y leche de coco hasta que la patata esté tierna."
   },
-  "lenguado_encebollado": {
-    "nombre": "Lenguado Encebollado",
-    "ingredientes": ["150g Lenguado (o gallo)", "50g Cebolla", "20g Harina", "10g Aceite", "30g Vino blanco", "Perejil"],
-    "elaboracion": "Enharinar ligeramente el pescado y dorar. Retirar. En el mismo aceite, pochar mucha cebolla en juliana. Añadir el vino, dejar reducir, devolver el pescado y cocinar 5 min."
-  },
-  "pollo_curry": {
-    "nombre": "Pollo al Curry con Patata",
-    "ingredientes": ["125g Pechuga de pollo", "200g Patata", "100g Leche de coco (o yogur natural)", "100g Zanahoria", "Curry en polvo", "Sal y pimienta"],
-    "elaboracion": "Saltear el pollo y la zanahoria. Añadir la patata en dados y el curry. Verter la leche de coco y un poco de agua. Cocinar a fuego lento hasta que la patata esté tierna."
-  },
-  "huevo_pisto": {
-    "nombre": "Huevo con Pisto Manchego",
-    "ingredientes": ["1 Huevo", "100g Tomate natural triturado", "60g Calabacín", "30g Pimiento", "30g Cebolla", "15g Aceite de oliva"],
-    "elaboracion": "Preparar un pisto pochando la cebolla, pimiento y calabacín. Añadir el tomate y reducir. Cocinar el huevo (a la plancha o escalfado) y colocar sobre el pisto."
-  },
-  "salteado_danpel": {
-    "nombre": "Salteado Danpel con Solomillo",
-    "ingredientes": ["150g Solomillo de ternera", "150g Zanahoria", "100g Cebolla", "100g Pimiento verde", "15g Aceite"],
-    "elaboracion": "Cortar el solomillo en tiras y saltear a fuego fuerte. Retirar. En la misma sartén, saltear las verduras en juliana (estilo wok) para que queden crujientes. Juntar todo."
-  },
-  "pizza_atun": {
-    "nombre": "Pizza con Atún",
-    "ingredientes": ["80g Base de pizza (preferible integral)", "40g Atún al natural", "60g Tomate frito", "25g Queso rallado ligero", "50g Champiñones", "Cebolla"],
-    "elaboracion": "Extender el tomate sobre la base. Añadir el queso, el atún escurrido, cebolla y champiñones. Hornear a 200°C hasta que los bordes estén dorados."
-  },
-  "arroz_langostinos": {
-    "nombre": "Arroz Meloso con Langostinos y Champiñones",
-    "ingredientes": ["60g Arroz (en crudo)", "80g Langostinos", "60g Champiñones", "10g Aceite", "Vino blanco", "Caldo de pescado"],
-    "elaboracion": "Sofreír ajos y champiñones. Añadir el arroz y nacarar. Verter el vino y luego el caldo caliente poco a poco, removiendo. Añadir los langostinos al final."
-  },
-  "entrecot_pimientos": {
-    "nombre": "Entrecot de Ternera con Pimientos",
-    "ingredientes": ["150g Entrecot", "150g Pimiento rojo/verde", "10g Aceite de oliva", "Sal gorda"],
-    "elaboracion": "Hacer los pimientos al horno o a la plancha con poco aceite. Cocinar el entrecot al punto deseado en una plancha muy caliente. Servir con los pimientos."
-  },
-  "bocadillo_lomo": {
-    "nombre": "Bocadillo de Lomo H",
-    "ingredientes": ["80g Pan integral", "90g Lomo adobado", "20g Queso", "Tomate", "Lechuga"],
-    "elaboracion": "Cocinar el lomo a la plancha. Abrir el pan, restregar el tomate y montar el bocadillo con el lomo, el queso y la lechuga fresca."
+  {
+    "nombre": "Pizza Con Atún",
+    "ingredientes": [
+      { "nombre": "Base Pizza Integral", "cantidad": "80g" },
+      { "nombre": "Atún al natural", "cantidad": "40g" },
+      { "nombre": "Queso rallado", "cantidad": "25g" }
+    ],
+    "preparacion": "Añadir ingredientes a la base y hornear 10-12 minutos a 200°C."
   }
-}
+]
