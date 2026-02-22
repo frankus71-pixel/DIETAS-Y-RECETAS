@@ -1,0 +1,72 @@
+[
+  {
+    "dia": "Día 1",
+    "desayuno": "Leche desnatada, Café, Kiwi, Pan integral con Queso tierno, Pavo y Nueces",
+    "media_mañana": "Manzana Roja",
+    "almuerzo": "Pasta Griega con Especias (H)",
+    "id_almuerzo": "pasta_griega",
+    "merienda": "Yogur Desnatado",
+    "cena": "Ensalada César con Pollo y Huevo",
+    "id_cena": "ensalada_cesar"
+  },
+  {
+    "dia": "Día 2",
+    "desayuno": "Leche desnatada, Café, Melocotón, Pan integral con Jamón Serrano y Tomate",
+    "media_mañana": "Pera",
+    "almuerzo": "Lentejas con Verdura y Jamón",
+    "id_almuerzo": "lentejas_jamon",
+    "merienda": "Yogur Desnatado",
+    "cena": "Lenguado Encebollado",
+    "id_cena": "lenguado_encebollado"
+  },
+  {
+    "dia": "Día 3",
+    "desayuno": "Leche desnatada, Café, Kiwi, Pan integral con Pavo y Nueces",
+    "media_mañana": "Albaricoque",
+    "almuerzo": "Pollo al Curry con Patata",
+    "id_almuerzo": "pollo_curry",
+    "merienda": "Yogur Desnatado",
+    "cena": "Huevo con Pisto Manchego",
+    "id_cena": "huevo_pisto"
+  },
+  {
+    "dia": "Día 4",
+    "desayuno": "Leche desnatada, Café, Manzana Roja, Pan integral con Queso Tierno y Nueces",
+    "media_mañana": "Manzana Roja",
+    "almuerzo": "Salteado Danpel con Solomillo de Ternera",
+    "id_almuerzo": "salteado_danpel",
+    "merienda": "Yogur Desnatado",
+    "cena": "Pizza con Atún",
+    "id_cena": "pizza_atun"
+  },
+  {
+    "dia": "Día 5",
+    "desayuno": "Leche desnatada, Café, Naranja, Pan integral con Pavo, Queso Tierno y Nueces",
+    "media_mañana": "Sandía",
+    "almuerzo": "Arroz Meloso con Langostinos",
+    "id_almuerzo": "arroz_langostinos",
+    "merienda": "Yogur Desnatado",
+    "cena": "Ensalada Completa",
+    "id_cena": "ensalada_completa"
+  },
+  {
+    "dia": "Día 6",
+    "desayuno": "Leche desnatada, Café, Pera y Pan integral con Queso Tierno y Nueces",
+    "media_mañana": "Manzana",
+    "almuerzo": "Garbanzos con Bacalao y Espinacas",
+    "id_almuerzo": "garbanzos_bacalao",
+    "merienda": "Yogur Desnatado",
+    "cena": "Pechuga de Pollo a la Plancha con Champiñones",
+    "id_cena": "pollo_champiñones"
+  },
+  {
+    "dia": "Día 7",
+    "desayuno": "Leche desnatada, Café, Kiwi y Pan integral con Jamón Serrano",
+    "media_mañana": "Ciruelas",
+    "almuerzo": "Entrecot de Ternera con Pimientos",
+    "id_almuerzo": "entrecot_pimientos",
+    "merienda": "Yogur Desnatado",
+    "cena": "Tortilla de Espárragos Trigueros",
+    "id_cena": "tortilla_esparragos"
+  }
+]
